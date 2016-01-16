@@ -8,11 +8,11 @@ as XML.
 
 
 Finished Songs
-==============
+--------------
 
-* Debaser by The Pixies
+* [Debaser by The Pixies](https://github.com/hosackm/transcriptions/tree/master/the_pixies_debaser)
 
 Upcoming Songs
-==============
+--------------
 
 * Life on Mars by David Bowie
