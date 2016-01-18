@@ -15,4 +15,4 @@ Finished Songs
 Upcoming Songs
 --------------
 
-* Life on Mars by David Bowie
+* [Life on Mars by David Bowie](https://github.com/hosackm/transcriptions/tree/master/david_bowie_life_on_mars)
